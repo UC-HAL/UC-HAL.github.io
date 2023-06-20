@@ -171,7 +171,7 @@ http://www.templatemo.com/tm-473-november
 	.Get_sec .Leftside input.field { padding: 10px 20px; }
 	.Get_sec .Leftside textarea { padding: 10px 20px; height: 125px; }
 	.Get_sec .Leftside .button {-webkit-appearance: none; }
-
+	.mybutton {-webkit-appearance: none; }
 	.Get_sec .Rightside { padding-top: 0px; }
 	.Get_sec .Rightside h3 { font-size: 40px; padding-bottom: 34px; }
 	.Get_sec .Rightside address { padding: 0 0 23px 65px; }
@@ -275,7 +275,7 @@ http://www.templatemo.com/tm-473-november
 	.Get_sec .Leftside input.field { padding: 10px 20px; }
 	.Get_sec .Leftside textarea { padding: 10px 20px; height: 125px; }
 	.Get_sec .Leftside .button { -webkit-appearance: none;  margin: 0px; padding: 12px 0px; }
-
+	.mybutton { -webkit-appearance: none;  margin: 0px; padding: 0px 0px; }
 	.Get_sec .Rightside { padding-top: 0px; width: 100%; }
 	.Get_sec .Rightside h3 { font-size: 30px; padding-bottom: 20px; }
 	.Get_sec .Rightside address { padding: 0 0 15px 65px; }
@@ -385,6 +385,7 @@ http://www.templatemo.com/tm-473-november
 	.Get_sec .Leftside input.field { padding: 10px 20px; }
 	.Get_sec .Leftside textarea { padding: 10px 20px; height: 125px; }
 	.Get_sec .Leftside .button { margin: 0px; padding: 12px 0px; -webkit-appearance: none; }
+	.mybutton { margin: 0px; padding: 0px 0px; -webkit-appearance: none; }
 
 	.Get_sec .Rightside { padding-top: 0px; width: 100%; }
 	.Get_sec .Rightside h3 { font-size: 30px; padding-bottom: 10px; }
